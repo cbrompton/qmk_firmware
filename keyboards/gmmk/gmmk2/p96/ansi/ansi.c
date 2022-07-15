@@ -130,26 +130,26 @@ const aw_led g_aw_leds[DRIVER_LED_TOTAL] = {
     {1, CS10_SW6,  CS11_SW6,  CS12_SW6},  //  97, k47, Num 0
     {1, CS10_SW7,  CS11_SW7,  CS12_SW7},  //  98, k57, Num .
 
-    {1, CS13_SW1,  CS14_SW1,  CS15_SW1},  //  101, LED 1
-    {1, CS13_SW2,  CS14_SW2,  CS15_SW2},  //  102, LED 2
-    {1, CS13_SW3,  CS14_SW3,  CS15_SW3},  //  103, LED 3
-    {1, CS13_SW4,  CS14_SW4,  CS15_SW4},  //  104, LED 4
-    {1, CS13_SW5,  CS14_SW5,  CS15_SW5},  //  105, LED 5
-    {1, CS13_SW6,  CS14_SW6,  CS15_SW6},  //  106, LED 6
-    {1, CS13_SW7,  CS14_SW7,  CS15_SW7},  //  107, LED 7
-    {1, CS13_SW8,  CS14_SW8,  CS15_SW8},  //  108, LED 8
-    {1, CS13_SW9,  CS14_SW9,  CS15_SW9},  //  109, LED 9
-    {1, CS13_SW10, CS14_SW10, CS15_SW10}, //  110, LED 10
-    {1, CS16_SW1,  CS17_SW1,  CS18_SW1},  //  111, LED 11
-    {1, CS16_SW2,  CS17_SW2,  CS18_SW2},  //  112, LED 12
-    {1, CS16_SW3,  CS17_SW3,  CS18_SW3},  //  113, LED 13
-    {1, CS16_SW4,  CS17_SW4,  CS18_SW4},  //  114, LED 14
-    {1, CS16_SW5,  CS17_SW5,  CS18_SW5},  //  115, LED 15
-    {1, CS16_SW6,  CS17_SW6,  CS18_SW6},  //  116, LED 16
-    {1, CS16_SW7,  CS17_SW7,  CS18_SW7},  //  117, LED 17
-    {1, CS16_SW8,  CS17_SW8,  CS18_SW8},  //  118, LED 18
-    {1, CS16_SW9,  CS17_SW9,  CS18_SW9},  //  119, LED 19
-    {1, CS16_SW10, CS17_SW10, CS18_SW10}  //  120, LED 20
+    {1, CS13_SW1,  CS14_SW1,  CS15_SW1},  //  99, LED 1
+    {1, CS13_SW2,  CS14_SW2,  CS15_SW2},  //  100, LED 2
+    {1, CS13_SW3,  CS14_SW3,  CS15_SW3},  //  101, LED 3
+    {1, CS13_SW4,  CS14_SW4,  CS15_SW4},  //  102, LED 4
+    {1, CS13_SW5,  CS14_SW5,  CS15_SW5},  //  103, LED 5
+    {1, CS13_SW6,  CS14_SW6,  CS15_SW6},  //  104, LED 6
+    {1, CS13_SW7,  CS14_SW7,  CS15_SW7},  //  105, LED 7
+    {1, CS13_SW8,  CS14_SW8,  CS15_SW8},  //  106, LED 8
+    {1, CS13_SW9,  CS14_SW9,  CS15_SW9},  //  107, LED 9
+    {1, CS13_SW10, CS14_SW10, CS15_SW10}, //  108, LED 10
+    {1, CS16_SW1,  CS17_SW1,  CS18_SW1},  //  109, LED 11
+    {1, CS16_SW2,  CS17_SW2,  CS18_SW2},  //  110, LED 12
+    {1, CS16_SW3,  CS17_SW3,  CS18_SW3},  //  111, LED 13
+    {1, CS16_SW4,  CS17_SW4,  CS18_SW4},  //  112, LED 14
+    {1, CS16_SW5,  CS17_SW5,  CS18_SW5},  //  113, LED 15
+    {1, CS16_SW6,  CS17_SW6,  CS18_SW6},  //  114, LED 16
+    {1, CS16_SW7,  CS17_SW7,  CS18_SW7},  //  115, LED 17
+    {1, CS16_SW8,  CS17_SW8,  CS18_SW8},  //  116, LED 18
+    {1, CS16_SW9,  CS17_SW9,  CS18_SW9},  //  117, LED 19
+    {1, CS16_SW10, CS17_SW10, CS18_SW10}  //  118, LED 20
 };
 
 #undef ___
